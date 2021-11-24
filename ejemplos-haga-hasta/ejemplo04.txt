@@ -11,17 +11,19 @@
 1. Inicio
 2. numero, i[0, n]
 3. potencia, i[0, n]
-4. numero, i[0, n]
+4. // numero, i[0, n]
 5. contador, i[0, n]
 6. resultado, i[0, n]
-7. numero <-- 4
+7. numero <-- 2
 8. potencia <-- 3
 9. resultado <-- 1
 10. contador <-- 1
 11. Haga_Hasta
-12.    resultado <-- resultado * numero
-13.    contador <-- contador + 1
-14. Fin Haga_Hasta(contador <= potencia) 
-15. Escribir resultado
+12.    resultado <-- resultado * numero // 2 // 4 // 8
+13.    contador <-- contador + 1 // 2 // 3 // 4
+14. Fin Haga_Hasta(contador <= potencia) // V // V // F
+15. Escribir resultado // 
+      8 
 16. Fin
+          
 

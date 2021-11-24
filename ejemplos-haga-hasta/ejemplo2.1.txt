@@ -1,0 +1,15 @@
+1. Inicio
+2. numero, i[0, n]
+4. numero <-- 0
+4.  cadenaFinal, x(200)[{1-9},{a-z},{A-Z}, {/}]
+5.  cadenaFinal <-- ""
+
+
+6. Mientras numero <=5 entonces 
+	cadenaFinal <-- cadenaFinal + numero + "\n"
+	 numero <-- numero +1  
+
+10. Fin Mientras
+11. Escribir cadenaFinal
+12. Fin
+
